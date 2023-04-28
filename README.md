@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante Bacharel de Sistemas de Informação - IFES;<br>Interesses:<br>_E-commerce;<br>_Robótica;<br>_Front-end e back-end;<br><br>Buscando mais experiência na área;<br>Estudando: HTML, CSS E JS;<br>
+Estudante Bacharel de Sistemas de Informação - IFES;<br>Interesses:<br>_E-commerce;<br>_Robótica;<br>_Front-end e back-end;<br><br>Buscando mais experiência na área;<br>Estudando: C++ and Java;<br>
 
 
 ## 🌐 Socials:
