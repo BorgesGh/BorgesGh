@@ -1,6 +1,5 @@
 # 💫 About Me:
-Estudante Bacharel de Sistemas de Informação - IFES;<br>Interesses:<br>_E-commerce;<br>_Robótica;<br>_Front-end e back-end;<br><br>Buscando mais experiência na área;<br>Estudando: C++ and Java;<br>
-
+Estudante Bacharel de Sistemas de Informação - IFES;<br>Interesses:<br>_E-commerce;<br>_Robótica;<br>_Análise de dados;<br><br>Buscando mais experiência na área;<br>Estudando: C, C++ and Java;<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/borge_s_) 
