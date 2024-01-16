@@ -1,4 +1,4 @@
-#  🧑🏻 Sobre mim:
+#  👤 Sobre mim:
 Estudante Bacharel de Sistemas de Informação - IFES.
 
 ## 🌐 Social:
@@ -22,6 +22,3 @@ Estou focando meus estudos nas seguintes tecnologias:
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
 - ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) 
-
-
-
