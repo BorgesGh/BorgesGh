@@ -3,6 +3,10 @@
 💡 Passionate about **Software Development** and new technologies  
 🚀 Always looking for learning and challenges!  
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Hello,+Welcome+to+my+Profile!;I+love+coding+💻;Flutter+%7C+Shopify+%7C+Java+%7C+C%2B%2B+%7C+Python" />
+</h2>
+
 ## 🌎 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/borge_s_)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghabriel-borges-campi-261062226/)  
@@ -29,3 +33,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorgesGh&theme=dark&hide_border=false" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorgesGh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400px"/>
 </div>
+
+---
+
+### 🐍 Contribution Graph  
+![Snake animation](https://github.com/BorgesGh/BorgesGh/blob/output/github-contribution-grid-snake.svg)
