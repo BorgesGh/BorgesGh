@@ -33,8 +33,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorgesGh&theme=dark&hide_border=false" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorgesGh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400px"/>
 </div>
-
----
-
-### 🐍 Contribution Graph  
-![Snake animation](https://github.com/BorgesGh/BorgesGh/blob/output/github-contribution-grid-snake.svg)
