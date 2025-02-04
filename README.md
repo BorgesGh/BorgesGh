@@ -28,8 +28,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BorgesGh&theme=dark&hide_border=false&include_all_commits=true&count_private=false" width="400px"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BorgesGh&theme=dark&hide_border=false" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorgesGh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="400px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BorgesGh&theme=github_dark" width="400px">
 </div>
-
----
-
-![Visitors](https://visitcount.itsvg.in/api?id=BorgesGh&icon=0&color=0)
