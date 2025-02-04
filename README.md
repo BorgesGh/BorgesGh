@@ -4,7 +4,7 @@
 🚀 Always looking for learning and challenges!  
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=Hello,+Welcome+to+my+Profile!;I+love+coding+💻;Flutter+%7C+Shopify+%7C+Java+%7C+C%2B%2B+%7C+Python" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=Hello,+Welcome+to+my+Profile!;I+love+coding+💻;Flutter+%7C+Shopify+%7C+Java+%7C+C%2B%2B+%7C+Python" />
 </h2>
 
 ## 🌎 Connect with Me  
